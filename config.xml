@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "fimaz-MPJ"
+version = "1.0.0">
+
+<name>Fimaz</name>
+
+<description>
+Fimaz
+</description>
+
+<author email="maricruzpj@hotmail.com">
+Maricruz Peinado
+</author>
+
+<icon src="imagenes/logo.png" gap:density="ldpi" gap:platform="android" />
+<icon src="imagenes/logo.png" gap:density="mdpi" gap:platform="android" />
+<icon src="imagenes/logo.png" gap:density="hdpi" gap:platform="android" />
+<icon src="imagenes/logo.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
